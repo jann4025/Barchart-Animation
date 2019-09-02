@@ -6,6 +6,8 @@
 .bar-container {
     display: flex;
     align-items: baseline;
+    max-height: 45vh;
+    min-height: 45vh;
 }
 
 .bar {
