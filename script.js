@@ -1,8 +1,5 @@
 'use strict'
-Sentry.init({
-    dsn: 'https://fd49c5cdc2514d32a29880f19ec4b765@sentry.io/1409998'
-});
-myUndefinedFunction();
+
 
 document.addEventListener('DOMContentLoaded', start);
 
